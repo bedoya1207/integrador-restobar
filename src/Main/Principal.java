@@ -22,6 +22,7 @@ public class Principal {
        MenuPrincipal menuPrin = new MenuPrincipal();
        menuPrin.setVisible(true);
        menuPrin.setLocationRelativeTo(null);
+        System.out.println("Main.Principal.main()");
        //AgregarPlatos x = new AgregarPlatos();
       // x.setVisible(true);
       // x.setLocationRelativeTo(null);

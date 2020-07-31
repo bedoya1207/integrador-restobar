@@ -38,5 +38,6 @@ public class ControladorBD {
             ConexionBD.close(con);
         }        
     }
+    sout
     
 }
